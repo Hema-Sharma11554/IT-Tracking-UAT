@@ -24,4 +24,4 @@ is on time. Count resets each calendar month.
       in the next month.
       Expected: no flag for B, because the count resets monthly
 
-**Result:** Not tested
+**Result:** Passed
